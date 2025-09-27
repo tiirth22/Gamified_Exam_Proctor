@@ -1,5 +1,5 @@
 # Gamified_Exam_Proctor
-=
+
 
 A secure online examination platform with AI-powered proctoring capabilities to ensure exam integrity and prevent cheating.
 
