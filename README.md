@@ -12,13 +12,19 @@ A secure online examination platform with AI-powered proctoring capabilities to 
 ![WhatsApp Image 2025-09-27 at 11 47 23 AM](https://github.com/user-attachments/assets/70090c24-6016-490a-988b-11876b0e2fc9)
 
 
-### Exam Interface
+### Interface
 <!-- Add screenshot of the exam interface with questions -->
-![Exam Interface](./screenshots/exam_interface.png)
+
+<img width="1316" height="557" alt="Screenshot 2025-09-27 162908" src="https://github.com/user-attachments/assets/bd06b71b-9299-4710-882a-f58f3adcc449" />
+<img width="1078" height="342" alt="Screenshot 2025-09-27 162615" src="https://github.com/user-attachments/assets/97961685-4345-4de7-8245-38f32d33064a" />
+<img width="1331" height="612" alt="Screenshot 2025-09-27 162602" src="https://github.com/user-attachments/assets/d5aba09e-b6e4-4fbc-867f-e1e67026c7b6" />
+
 
 ### Violation Alert
 <!-- Add screenshot of a violation alert -->
-![Violation Alert](./screenshots/violation_alert.png)
+<img width="477" height="508" alt="Screenshot 2025-09-27 162847" src="https://github.com/user-attachments/assets/47288dec-a124-482c-b9cc-6587e74bebc7" />
+
+
 
 ## 🚀 Features
 
