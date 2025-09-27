@@ -94,6 +94,15 @@ A secure online examination platform with AI-powered proctoring capabilities to 
 - Activity logging
 - Secure data handling
 
+## 👨‍💻 Default Admin Credentials
+
+For initial login as an administrator, use the following credentials:
+
+- **Email**: `admin@demo.com`
+- **Password**: `admin123`
+
+⚠️ **Important**: Please change these credentials immediately in a production environment for security reasons.
+
 ## 📂 Project Structure
 
 ### Directory for Screenshots
